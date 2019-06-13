@@ -1,0 +1,4 @@
+theme-override : custom.css
+
+logo : kantega_logo.svg
+logo-position : bottom-right
