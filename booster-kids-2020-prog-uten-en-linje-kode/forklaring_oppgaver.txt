@@ -1,0 +1,220 @@
+Tusen takk for at du er med som frivillig på Booster Kids og hjelper oss med å
+lage programmeringsøvelser for de yngste! 
+
+Hensikten med denne workshopen er at barna skal begynne å få et inntrykk av hva
+programmering er for noe og hvilke regler som gjelder når vi skal kommunisere
+med en datamaskin. Vi har satt sammen 4 ulike stasjoner med øvelser. 
+
+1. Roboten
+2. Funksjonsrommet
+3. Sammenligning og sortering
+4. Lego/frilek
+
+Vi setter opp ulike vanskelighetsgrader, slik at oppgavene skal kunne løses både
+av de yngste, men også de eldste barna. Vi har lagt opp til at det er minst en
+person per aktivitet, særlig når barna begynner på nye aktiviteter trenger de
+nok litt forklaring og hjelp til å komme igang. Se an barna og gi tips til
+hvordan de kan få passende utfordringer. 
+
+Vi ønsker at barna skal få utforske det strikte (determinisme) ved
+programmering, samt det å faktisk sette sammen program og utføre dem. De får
+også oppleve at programmering er nært knyttet til ting vi gjør til vanlig, som
+feks å bygge lego. I tillegg skal de få utforske hvordan ulike personer tenker
+ulikt, særlig gjennom sammenligning og sortering.
+
+De som trenger pause kan få sitte og tegne, eller de kan være på stasjon 4
+(lego). 
+
+
+De ulike stasjonene: 
+
+1: Roboten
+
+Hensikt:
+- Roboten handler om å både lage programmer og utføre dem fysisk. Dette er en
+  gruppeaktivitet der hver gruppe skal programmere en robot (et barn) som så
+  skal utføre programmet. 
+
+Hvordan virker Roboten?
+Vi lager et stort rutenett på bakken. Rutene kan inneholder ting som trigger
+spesifikk oppførsel. Rutene kan også inneholde hindringer. En gruppe får som mål
+å få roboten "over" rutenettet til en bestemt rute. 
+
+En gruppe barn (ca 4 stk) jobber sammen. Et barn skal være roboten, og skal
+utføre program som de andre barna setter sammen.  Resten av barna i gruppen får
+utdelt programkort med bevegelser på. Husk å rotere hvem som er robot (og evt
+andre roller de blir enige om), slik at alle får prøve seg. 
+
+Eksempler på kort: 
+- flytt 1 frem
+- roter 90 grader venstre/høyre
+- hopp rett opp og ned (eller over en rute). 
+
+Barna bruker programkortene til å styre robot-barnet litt etter litt. Her er det
+rom for variasjoner: 
+- la barna lage et program på feks 3 kort, og så skal roboten utføre det uten at
+  programmet endres. Her trenger de nok hjelp til å følge reglene, særlig det at
+  roboten skal gjøre nøyaktig det programmet sier, og at alle må være enige om
+  at programmet er ferdig
+- La barna lage et lenger program som så utføres. Hva er en god totallengde på
+  programmet i hver runde? Hvordan kan de få gitt en god beskjed til roboten om
+  hva som skal gjøres (Det er lett for at alle står og roper samtidig, da blir
+  det forvirring for roboten ;)?
+- legg inn (flere) hindringer
+- legg inn mulighet for if-satser som kan trigges vha av ting som blir lagt ut i rutenettet. 
+- la barna lage egne bevegelseskort
+- ta vekk en type kort (feks snu til høyre). Hvordan kan de løse problemet når
+  de nå mangler noe de hadde?
+- Hva skjer hvis roboten får en instruksjon den ikke forstår? Her må barna lære
+  at en datamaskin kun kan utføre kommandoer den gjenkjenner, og finne ut av hva
+  maskinen (roboten) skal gjøre hvis den får ukjent instruksjon
+- Hva skjer hvis det kommer en feil halvveis i programmet? Blir roboten stående?
+  Går den tilbake til starten av runden? Her kan barna finne ut hva som er
+  fornuftig
+
+Hva ønsker vi at barna skal lære i Roboten?
+- hva er en instruksjon? 
+- hvilket programmeringsspråk bruker vi, hva er det? 
+- begrensninger i form av reglene som må følges (roboten må gjøre som den blir
+  fortalt, programmet kan ikke endres etter det er "overført" osv.)
+- samme input gir alltid samme output (determinisme)
+- utvide "språket" vi jobber i
+- undre seg over og utforske utfordringen
+
+
+2: Funksjonsrommet -- finn mønsteret
+
+Hensikt: 
+- Barna skal lære seg å lete etter og gjenkjenne mønster, eller lage mønster
+
+Hvordan virker funksjonsrommet? 
+Det er to "roller" å fylle i denne leken, og barna kan fylle rollen alene eller
+velge å samarbeide. Vi setter opp en boks/telt til denne øvelsen, men den kan
+fint gjennomføres uten også. 
+
+En rolle er å være funksjonen, altså å lage mønsteret (kan gjerne sitte inni
+boksen). Den andre rollen er å finne ut hva mønsteret er ved å gi input og tolke
+output (står utenfor boksen og vet ikke hva som er inni).  
+
+Inni boksen vil det være ulike leker barn kan bruke, men de kan også velge å
+bare bruke hodet og gi verbal tilbakemelding. 
+
+Dere kan gjerne gi tips til hva en funksjon kan være, men barnet kan
+også finne på sine egne funksjoner. Her er det bare fantasien som setter
+grenser! Eksempel på funksjoner: 
+- ta inn et tall, gi tilbake x figurer i en kurv
+- ta inn et tall, gi tilbake tegning med x figurer
+- ta inn et tall, gi tilbake et ord med riktig antall bokstaver
+- ta inn et tall: gi tilbake en lyd repetert riktig antall ganger
+- ta inn en farge: gi tilbake antall bokstaver i ordet
+- ta inn en farge: gi tilbake leker i riktig farge
+- ta inn en farge: gi tilbake leker i alle andre farger
+- ta inn en farge: gi tilbake ark med ordet i riktig farge
+- ta inn et ord: gi tilbake antall bokstaver i ordet
+- ta inn et ord: gi tilbake ordet med noen ekstra bokstaver på slutten
+- ta inn et ord: gi tilbake et ord som betyr det motsatte
+- ta inn et tall: legg til 5 på tallet (eller annet tall)
+- ta inn to tall: legg dem sammen
+- ta inn to tall: trekk 1 fra 2 eller omvendt
+- ta inn hva som helst: gi en sang tilbake
+- ta inn hva som helst: gi noe spesifikt tilbake
+- ta inn hva som helst: gi det samme tilbake
+
+Den som tester må gjerne prøve flere ulike inputs for å finne mønsteret. Hjelp
+barnet som er funksjonen til å alltid gjøre det samme frem til funksjonen er
+funnet. Hjelp barnet som gjetter til hvilke typer input som kan gi et godt svar.
+De som ikke er så kreative kan velge "ferdiglagde" funksjoner (feks fra de
+over), mens de mer kreative kan finne på sine egne. 
+
+Vi kommer også til å legge til rette for syntax error/feil i input, som kan
+brukes for å begrense hva som kan gis inn, det er også et viktig konsept å få
+inn. (Hva skjer om man sender inn et negativt tall? Et veldig høyt tall? Et ord
+i stedet for et tall osv?)
+
+Hva ønsker vi at barna skal lære av Funksjonsrommet?
+- oppførsel kan forklare hvordan et mønster er bygget opp
+- hva er et mønster?
+- hvordan finne på mønster? 
+- Determinisme i form av at mønsteret må oppføre seg konsekvent
+- begrensninger/gyldig input
+- utforske og undre seg over utfordringen
+
+
+
+3: Sammenligning og sortering
+
+Hensikt: 
+- utforske kontekst rundt sammenligning og sortering: hvordan endrer dette seg
+  etterhvert som konteksten endrer seg? 
+- Ulike personer løser samme oppgave på forskjellige måter
+
+Rekvisita:
+- kurver eller bokser
+- leker og objekter i ulike farger og utførelser
+- kort med ulike bilder på (bil, hus, person, jente, gutt, tv osv)
+
+Hvordan virker sammenligning og sortering?
+Deltager får en boks med ting i og sorterer denne, eller setter opp en lineær
+rekkefølge (størst -- minst eller noe annet). Øvelsen kan også gjøres som
+samarbeid. 
+
+Variasjoner: 
+- deltager får kanskje samme boks med litt mindre i, sorter på nytt. Hvordan
+  endrer sorteringen seg? 
+- Hvordan kan tingene i boksen sammenlignes? Hvordan finner de ut om noe er
+  større enn noe annet? Kan alle tingene sorteres på en meningsfylt måte?
+  (Hvordan kan feks kjøretøy og dyr sammenlignes?)
+- litt eldre deltagere: får kort og kan snakke med noen andre om hvordan de kan
+  sammenligne eller sortere det som er på kortet
+- tegn/skriv ditt eget kort og la noen andre finne ut hvordan sammenligningen
+  bør være, eller bare gi en oppgave verbalt
+- hvor mange ulike måter kan innhold i en boks sorteres på? (Hvem klarer å finne
+  på flest varianter?)
+- være med å lage kurver til andre deltagere (kanskje de som får kurven finner på en annen måte å sortere/sammenligne på enn tiltenkt?)
+- hvis det bare er gule ting i kurven, hvordan sorteres dette?
+- hvis det bare er dyr i kurven, hvordan sorteres dette?
+- hvis det er dyr og kjøretøy, hvordan sorteres dette?
+- hvis det er bare kjøretøy, hvordan sorteres dette? osv.
+- hva med geometriske figurer?
+
+
+Hva ønsker vi at barna skal lære om sammenligning og sortering? 
+- ulike datasett endrer sortering
+- kontekst: vi gjør antagelser om verden hele tiden
+- datasettet påvirker hvordan vi tenker det bør sorteres
+- det finnes mange måter å angripe samme problemstilling på
+- hvilke ting kan sammenlignes og sorteres?
+- utforske og undre seg over utfordringen
+
+Her kan det være greit å be barna sammenligne hvis de sorterer ulikt, eller
+kanskje du som frivillig kan vise andre måter å sortere samme sett på? Utfordre
+særlig de eldre på å finne andre måter å sortere/sammenligne på, se hvor mange
+ulike måter de klarer å finne på. Endre datasettet --> hvordan endrer det
+sortering/sammenligning
+
+
+
+4: Frilek/strukturert lek med lego
+
+Hensikt/hva ønsker vi at barna skal lære: 
+- frilek, særlig for de minste, men også se at man kan programmere seg selv til
+  å bygge lego, og det at å bygge etter en oppskrift er å utføre et program
+
+
+Hvordan virker lego-lek? 
+
+Vi legger ut lego-klosser og oppskrifter. Her kan barna gå bare for å bygge
+fritt, men vi legger også til rette for strukturert lek. Legooppskrifter er jo
+programmer som barna må utføre. Vi kan lage egne legooppskrifter ved å sette
+sammen en brikketype eller en farge brikke (her kan formen være fast eller
+variabel) og terning. Da får de samtidig øve seg på repetisjon, samt det å
+utføre et program som de kan lage selv. 
+Variasjoner: 
+- får bare lov å bruke en viss type brikke
+- får bare lov å bruke en viss farge
+- kan velge type brikke selv, men må alltid bruke x (trill en terning i
+  begynnelsen) brikker 
+- gi et bilde av en ferdig figur, hvordan settes denne sammen? (Hva er
+  programmet/algoritmen)
+- gi en ferdig figur, finn ut hvordan den settes sammen (enklere enn den over)
+
